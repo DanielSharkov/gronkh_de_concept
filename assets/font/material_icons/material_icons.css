@@ -6,9 +6,9 @@
 	src: local('material_icons'),
 		local('MaterialIcons-Regular'),
 		local('material_icons_regular'),
-		url(./material_icons_Regular.woff2) format('woff2'),
-		url(./material_icons_Regular.woff) format('woff'),
-		url(./material_icons_Regular.ttf) format('truetype');
+		url(dist/material_icons_regular.woff2) format('woff2'),
+		url(dist/material_icons_regular.woff) format('woff'),
+		url(dist/material_icons_regular.ttf) format('truetype');
 }
 .material-icons {
 	font-family: 'material_icons';
