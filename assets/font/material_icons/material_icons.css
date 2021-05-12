@@ -2,7 +2,7 @@
 	font-family: 'material_icons';
 	font-style: normal;
 	font-weight: 400;
-	src: url(./material_icons_regular.eot);
+	src: url(dist/material_icons_regular.eot);
 	src: local('material_icons'),
 		local('MaterialIcons-Regular'),
 		local('material_icons_regular'),
