@@ -2,13 +2,13 @@
 	font-family: 'material_icons';
 	font-style: normal;
 	font-weight: 400;
-	src: url(/dist/material_icons_regular.eot);
+	src: url(/gronkh_de_concept/dist/material_icons_regular.eot);
 	src: local('material_icons'),
 		local('MaterialIcons-Regular'),
 		local('material_icons_regular'),
-		url(/dist/material_icons_regular.woff2) format('woff2'),
-		url(/dist/material_icons_regular.woff) format('woff'),
-		url(/dist/material_icons_regular.ttf) format('truetype');
+		url(/gronkh_de_concept/dist/material_icons_regular.woff2) format('woff2'),
+		url(/gronkh_de_concept/dist/material_icons_regular.woff) format('woff'),
+		url(/gronkh_de_concept/dist/material_icons_regular.ttf) format('truetype');
 }
 .material-icons {
 	font-family: 'material_icons';
